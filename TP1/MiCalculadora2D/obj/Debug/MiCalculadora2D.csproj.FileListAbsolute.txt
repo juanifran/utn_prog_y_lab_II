@@ -1,0 +1,15 @@
+c:\users\kik\documents\visual studio 2012\Projects\MiCalculadora2D\MiCalculadora2D\bin\Debug\MiCalculadora2D.exe.config
+c:\users\kik\documents\visual studio 2012\Projects\MiCalculadora2D\MiCalculadora2D\obj\Debug\MiCalculadora2D.csprojResolveAssemblyReference.cache
+c:\users\kik\documents\visual studio 2012\Projects\MiCalculadora2D\MiCalculadora2D\obj\Debug\MiCalculadora2D.Form1.resources
+c:\users\kik\documents\visual studio 2012\Projects\MiCalculadora2D\MiCalculadora2D\obj\Debug\MiCalculadora2D.Properties.Resources.resources
+c:\users\kik\documents\visual studio 2012\Projects\MiCalculadora2D\MiCalculadora2D\obj\Debug\MiCalculadora2D.csproj.GenerateResource.Cache
+c:\users\kik\documents\visual studio 2012\Projects\MiCalculadora2D\MiCalculadora2D\bin\Debug\MiCalculadora2D.exe
+c:\users\kik\documents\visual studio 2012\Projects\MiCalculadora2D\MiCalculadora2D\bin\Debug\MiCalculadora2D.pdb
+c:\users\kik\documents\visual studio 2012\Projects\MiCalculadora2D\MiCalculadora2D\obj\Debug\MiCalculadora2D.exe
+c:\users\kik\documents\visual studio 2012\Projects\MiCalculadora2D\MiCalculadora2D\obj\Debug\MiCalculadora2D.pdb
+C:\Users\kik\Downloads\juanifran-master\RecuperatorioTP-\TP1\MiCalculadora2D\bin\Debug\MiCalculadora2D.exe.config
+C:\Users\kik\Downloads\juanifran-master\RecuperatorioTP-\TP1\MiCalculadora2D\obj\Debug\MiCalculadora2D.exe
+C:\Users\kik\Downloads\juanifran-master\RecuperatorioTP-\TP1\MiCalculadora2D\obj\Debug\MiCalculadora2D.pdb
+C:\Users\kik\Desktop\Lab2--master\TP1\MiCalculadora2D\bin\Debug\MiCalculadora2D.exe.config
+C:\Users\kik\Desktop\Lab2--master\TP1\MiCalculadora2D\obj\Debug\MiCalculadora2D.exe
+C:\Users\kik\Desktop\Lab2--master\TP1\MiCalculadora2D\obj\Debug\MiCalculadora2D.pdb
