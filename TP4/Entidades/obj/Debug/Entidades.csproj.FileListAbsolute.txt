@@ -1,0 +1,14 @@
+C:\Users\dannycarlifornia\Downloads\tp4\TP4\Entidades\bin\Debug\Entidades.dll
+C:\Users\dannycarlifornia\Downloads\tp4\TP4\Entidades\bin\Debug\Entidades.pdb
+C:\Users\dannycarlifornia\Downloads\tp4\TP4\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\dannycarlifornia\Downloads\tp4\TP4\Entidades\obj\Debug\Entidades.dll
+C:\Users\dannycarlifornia\Downloads\tp4\TP4\Entidades\obj\Debug\Entidades.pdb
+C:\Users\dannycarlifornia\Downloads\tp4\TP4\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\dannycarlifornia\Downloads\tp4\TP4\Entidades\bin\Debug\Entidades.dll.config
+C:\Users\dannycarlifornia\Documents\Proyectos y aplicaciones en Csharp\tp4juanterminar\TP4\Entidades\bin\Debug\Entidades.dll.config
+C:\Users\dannycarlifornia\Documents\Proyectos y aplicaciones en Csharp\tp4juanterminar\TP4\Entidades\bin\Debug\Entidades.dll
+C:\Users\dannycarlifornia\Documents\Proyectos y aplicaciones en Csharp\tp4juanterminar\TP4\Entidades\bin\Debug\Entidades.pdb
+C:\Users\dannycarlifornia\Documents\Proyectos y aplicaciones en Csharp\tp4juanterminar\TP4\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\dannycarlifornia\Documents\Proyectos y aplicaciones en Csharp\tp4juanterminar\TP4\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\dannycarlifornia\Documents\Proyectos y aplicaciones en Csharp\tp4juanterminar\TP4\Entidades\obj\Debug\Entidades.dll
+C:\Users\dannycarlifornia\Documents\Proyectos y aplicaciones en Csharp\tp4juanterminar\TP4\Entidades\obj\Debug\Entidades.pdb
